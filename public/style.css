@@ -1,0 +1,32 @@
+#topNav {
+  background-color: #F0D4D3;
+}
+#navTitle {
+  color: black;
+}
+
+.chat {
+  text-align: center;
+  list-style-type: none;
+  font-size: 25px;
+  border: solid 10px #E2DEDB;
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: bold;
+  font-family: cursive;
+  background-color: #F7F6F4;
+  box-shadow: 6px 6px 6px #888888;
+}
+
+.chatDate {
+  font-size: 12px;
+}
+
+body {
+  background: url("/gfx/background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 100% 100%;
+}
